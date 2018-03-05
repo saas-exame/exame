@@ -1,6 +1,6 @@
 package com.goldarmor.live800.domain;
 
-public class User {
+public class Manager {
 	private String username;
 	
 	
